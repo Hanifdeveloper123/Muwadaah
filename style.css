@@ -50,6 +50,9 @@ body {
 .hero h4 {
   font-size: 1.6rem;
 }
+.hero h2 {
+  font-size: 2rem;
+}
 
 .hero p {
   font-size: 1.4rem;
