@@ -8,6 +8,7 @@ body {
   font-size: 1.2rem;
   font-family: 'Work Sans', sans-serif;
   min-height: 2000px;
+  background-color: black;
 }
 
 .hero::before {
@@ -19,12 +20,10 @@ body {
   height: 100%;
   background-image: url(img/uns-wisuda-luring-agustus-2022-4.jpg);
   background-size: cover;
-  opacity:80%;
-  background-color: black;
+  opacity:70%;
   background-position: center;
   z-index: -1;
-  /* filter: grayscale(); */
-  /* -webkit-filter: grayscale(); */
+
 }
 
 .hero {
